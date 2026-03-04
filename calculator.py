@@ -1,7 +1,7 @@
 f = 0
 t = 0
 e = 0
-operator =0
+operator = 0
 
 def calculator(a, b):
     if operator == "+":
