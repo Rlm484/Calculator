@@ -13,7 +13,7 @@ def calculator(a, b):
     elif operator == "*":
         return a*b
     else:
-        print("INVALID FORMAT")
+        return "INVALID OPERATOR"
     
 operator = input("Which operator will you be using?: ")
 
