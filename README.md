@@ -10,5 +10,7 @@ To use the calculator, click on the following github release link:
 
 (https://github.com/Rlm484/Calculator/releases/tag/Calculator)
 
-After arriving at the website, open the file and run it
+After arriving at the website, click on the link (calculator.py) 
+
+After the file downloads, open the file and run it
 Congrats! You now have access to the simplest calculator in existence (Probably not the simplest but ye)
