@@ -26,6 +26,3 @@ I used Copilot for debugging because of some issues I had when you input an inva
 
 (this caused me a lot of pain :'D)
 
-To the ship checkers (I succeeded in turning it into an exe, thanks for all the assistance! You guys are awesome :) )
-
-I will remove the above if the ship is approved
