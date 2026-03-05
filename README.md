@@ -20,6 +20,6 @@ I used Copilot for debugging because of some issues I had when you input an inva
 
 (this caused me a lot of pain :'D)
 
-To the ship checkers (If this doesn't count as adding an executable I don't know what does, and I don't know how to do it)
+To the ship checkers (I succeded in turning it to an exe, however github release won't let me add it and says its not a supported format)
 
 I will remove the above if the ship is approved
